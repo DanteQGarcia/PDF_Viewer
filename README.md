@@ -1,3 +1,3 @@
 # PDF_Viewer
 Visor de archivos PDF en java
-[![Screenshot-51.png](https://i.postimg.cc/WpYTzrvp/Screenshot-51.png)](https://postimg.cc/WtZQfdzx)
+[![Screenshot-66.png](https://i.postimg.cc/zvTBQx6T/Screenshot-66.png)](https://postimg.cc/fSTDtfwb)
